@@ -1,2 +1,3 @@
-# ada-2020-project-milestone-p3-p3_ada-dream-team
-Welcome to our repo
+# P3 Milestone submission
+1. a
+2. b
