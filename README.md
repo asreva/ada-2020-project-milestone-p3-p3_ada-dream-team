@@ -12,20 +12,27 @@ By doing this study, we may find the factors that increase the number of friends
 ### 3. Proposed dataset:
 1. Gowalla dataset: https://snap.stanford.edu/data/loc-gowalla.html. A dataset from the paper. Checkins of users and friends relationship.
 2. Brightkite dataset: https://snap.stanford.edu/data/loc-Brightkite.html. A dataset from the paper. Checkins of users and friends relationship.
-3. COUNTRY DATASET
+3. COUNTRIES DATASET
 ### 4. Methods:
 1. Mapping (home position to country belonging)
 2. Classification/Regression (try to predict the belonging or the characteristics when belonging to one country)
-3. Matching (match people and countires that are comparable)
+3. Matching (match people and countries that are comparable)
 ### 5. Proposed timeline:
-1. Find the disparities between the cantons
-2. Find the main factors that influence these disparities
-3. Compile data for Spain
-4. Modify Spain and Switzerland data to be comparable
-5. See if the same conclusions handle for Spain
-### 6. Organisation within the team:
-A. Do the project
-T. Verify the project
-ID. Drink tea
+1. Compute the nationalities
+2. Compute friendships characteristics (number of friends, proximity of them, frequency of meetings)
+3. Find similarities and disparities between countries
+4. Find similarities and disparities between users
+5. Matching countries and users
+6. Infer the factors that influence friendships characteristics (feature importance)
+7. Plotting and reporting results
+### 6. Organization within the team:
+1. Compute the nationalities [Week 12]
+2. Compute friendships characteristics (number of friends, proximity of them, frequency of meetings) [Week 12]
+3. Find similarities and disparities between countries [Week 13]
+4. Find similarities and disparities between users [Week 13]
+5. Matching countries and users [Week 13]
+6. Infer the factors that influence friendships characteristics (feature importance) [Week 14]
+7. Plotting and reporting results [Week 14]
 ### 7. Questions to TA's
-?
+1. Do we get the 6?
+2. Just above what should we put?
