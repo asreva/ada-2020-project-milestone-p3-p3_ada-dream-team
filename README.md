@@ -12,7 +12,8 @@ By doing this study, we may find the factors that increase the number of friends
 ### 3. Proposed dataset:
 1. Gowalla dataset: https://snap.stanford.edu/data/loc-gowalla.html. A dataset from the paper. Checkins of users and friends relationship.
 2. Brightkite dataset: https://snap.stanford.edu/data/loc-Brightkite.html. A dataset from the paper. Checkins of users and friends relationship.
-3. COUNTRIES DATASET
+3. Compilation of UNData: https://www.kaggle.com/sudalairajkumar/undata-country-profiles. Different characteristics for each country.
+4. Compilation of USGovt: https://www.kaggle.com/fernandol/countries-of-the-world. More characteristics for each country.
 ### 4. Methods:
 1. Mapping (home position to country belonging)
 2. Classification/Regression (try to predict the belonging or the characteristics when belonging to one country)
@@ -33,6 +34,3 @@ By doing this study, we may find the factors that increase the number of friends
 5. Matching countries and users [Week 13]
 6. Infer the factors that influence friendships characteristics (feature importance) [Week 14]
 7. Plotting and reporting results [Week 14]
-### 7. Questions to TA's
-1. Do we get the 6?
-2. Just above what should we put?
