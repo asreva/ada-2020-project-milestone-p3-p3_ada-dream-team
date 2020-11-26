@@ -1,7 +1,7 @@
 # P3 Milestone submission: Friendship and home position 
 ### 1. Abstract:
 Our project extension aims to inspect the difference in quantity, quality and distribution of friends according to where a person lives. Cultural factors, as well as geography and political decisions, may influence the result. We will analyse the problem in different countries.
-To do so, we will use BrightKite and Gowalla datasets. From them, we will compute users' nationalities and friendships characteristics such as proximity, quantity of friends and frequency of meeting. With these data, we will be able to assert (or no) the significance of regional disparities. We will inspect further what is the cause of it using another dataset that includes characteristics of each country (mobility, wealth, ...). 
+To do so, we will use BrightKite and Gowalla datasets. From them, we will compute users' nationalities and friendships characteristics such as proximity, quantity of friends and frequency of meeting. With these data, we will be able to assert (or no) the significance of regional disparities. We will inspect further the underlying causes of those disparities using another dataset that includes characteristics of each country (mobility, wealth, ...). 
 By doing this study, we may find the factors that increase the number of friends or bring them closer, which may be solutions against the threat of depression and isolation augmentation.
 ### 2. Research Questions:
 1. Is there differences in terms of friendship characteristics depending on the country?
@@ -14,6 +14,7 @@ By doing this study, we may find the factors that increase the number of friends
 2. Brightkite dataset: https://snap.stanford.edu/data/loc-Brightkite.html. A dataset from the paper. Checkins of users and friends relationship.
 3. Compilation of UNData: https://www.kaggle.com/sudalairajkumar/undata-country-profiles. Different characteristics for each country.
 4. Compilation of USGovt: https://www.kaggle.com/fernandol/countries-of-the-world. More characteristics for each country.
+5. happiness2020.pkl and countries_info.csv from "tutorial 01- Handling data". More characteristics for each country.
 ### 4. Methods:
 1. Mapping (home position to country belonging)
 2. Classification/Regression (try to predict the belonging or the characteristics when belonging to one country)
