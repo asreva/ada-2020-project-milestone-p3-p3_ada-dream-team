@@ -1,4 +1,4 @@
-# P3 Milestone submission: Friendship and home position 
+# P3 Milestone submission: Does your country of residence influence your friendship relation?
 ### 1. Abstract:
 Our project extension aims to inspect the difference in quantity, quality and distribution of friends according to where a person lives. Cultural factors, as well as geography and political decisions, may influence the result. We will analyse the problem in different countries.
 To do so, we will use BrightKite and Gowalla datasets. From them, we will compute users' nationalities and friendships characteristics such as proximity, quantity of friends and frequency of meeting. With these data, we will be able to assert (or no) the significance of regional disparities. We will inspect further the underlying causes of those disparities using another dataset that includes characteristics of each country (mobility, wealth, ...). 
