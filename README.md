@@ -41,7 +41,7 @@ Week 14
 2. Compute friendships characteristics (number of friends, proximity of them, frequency of meetings) [Week 12] (Thibault & Andrés)
 3. Find similarities and disparities between countries based on country characteristics[Week 13] (Iván-Daniel & Thibault)
 4. Find similarities and disparities between countries based on friendship characteristics[Week 13] (Iván-Daniel & Thibault)
-5. Infer the factors that influence friendships characteristics for each country (feature importance) [Week 14] (Andrés & Iván-Daniel)
+5. Infer the factors that influence friendships characteristics for each country [Week 14] (Andrés & Iván-Daniel)
 6. Infer the relations between quality and quantity of friends for each user [Week 14] (Andrés)
 7. Revising and commeting code [Week 14] (All members in collaboration)
 8. Plotting and reporting results [Week 14] (All members in collaboration)
