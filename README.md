@@ -30,10 +30,12 @@ Week 12
 2. Compute friendships characteristics (number of friends, proximity of them, frequency of meetings)
 
 Week 13
+
 3. Find similarities and disparities between countries based on country characteristics
 4. Find similarities and disparities between countries based on friendship characteristics
 
 Week 14
+
 5. Infer the factors that influence friendships characteristics for each country
 6. Infer the relations between quality and quantity of friends for each user
 7. Revising and commeting code
