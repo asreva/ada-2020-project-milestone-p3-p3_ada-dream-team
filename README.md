@@ -9,6 +9,7 @@ By doing this study, we may find the factors that increase the number of friends
 3. What are the factors that impact the proximity of friends?
 4. What are the factors that impact the quality of friendships?
 5. Is there a relation between the number and quality of friendships?
+6. How does friendship characteristics impact happiness?
 ### 3. Proposed dataset:
 1. Gowalla dataset: https://snap.stanford.edu/data/loc-gowalla.html. A dataset from the paper. Checkins of users and friends relationship.
 2. Brightkite dataset: https://snap.stanford.edu/data/loc-Brightkite.html. A dataset from the paper. Checkins of users and friends relationship.
@@ -17,21 +18,30 @@ By doing this study, we may find the factors that increase the number of friends
 5. happiness2020.pkl and countries_info.csv from "tutorial 01- Handling data". More characteristics for each country.
 ### 4. Methods:
 1. Mapping (home position to country belonging)
-2. Classification/Regression (try to predict the belonging or the characteristics when belonging to one country)
-3. Matching (match people and countries that are comparable)
+2. Clustering
+3. Anova test and Kruskal-Wallis test
+4. Correlation matrix
+5. Pair plots
+6. PCA
+7. Linear regression
 ### 5. Proposed timeline:
+Week 12
 1. Compute the nationalities
 2. Compute friendships characteristics (number of friends, proximity of them, frequency of meetings)
-3. Find similarities and disparities between countries
-4. Find similarities and disparities between users
-5. Matching countries and users
-6. Infer the factors that influence friendships characteristics (feature importance)
-7. Plotting and reporting results
+Week 13
+3. Find similarities and disparities between countries based on country characteristics
+4. Find similarities and disparities between countries based on friendship characteristics
+Week 14
+5. Infer the factors that influence friendships characteristics for each country
+6. Infer the relations between quality and quantity of friends for each user
+7. Revising and commeting code
+8. Plotting and reporting results
 ### 6. Organization within the team:
-1. Compute the nationalities [Week 12]
-2. Compute friendships characteristics (number of friends, proximity of them, frequency of meetings) [Week 12]
-3. Find similarities and disparities between countries [Week 13]
-4. Find similarities and disparities between users [Week 13]
-5. Matching countries and users [Week 13]
-6. Infer the factors that influence friendships characteristics (feature importance) [Week 14]
-7. Plotting and reporting results [Week 14]
+1. Compute the nationalities [Week 12] (Iván-Daniel)
+2. Compute friendships characteristics (number of friends, proximity of them, frequency of meetings) [Week 12] (Thibault & Andrés)
+3. Find similarities and disparities between countries based on country characteristics[Week 13] (Iván-Daniel & Thibault)
+4. Find similarities and disparities between countries based on friendship characteristics[Week 13] (Iván-Daniel & Thibault)
+5. Infer the factors that influence friendships characteristics for each country (feature importance) [Week 14] (Andrés & Iván-Daniel)
+6. Infer the relations between quality and quantity of friends for each user [Week 14] (Andrés)
+7. Revising and commeting code [Week 14] (All members in collaboration)
+8. Plotting and reporting results [Week 14] (All members in collaboration)
