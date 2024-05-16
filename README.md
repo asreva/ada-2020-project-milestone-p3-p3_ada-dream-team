@@ -1,3 +1,5 @@
+Have a look at the result in a "blog" format [here](https://asreva.github.io/2020-12-18-markdown/)!
+
 # P3 Milestone submission: Does your country of residence influence your friendship relation?
 ### 1. Abstract:
 Our project extension aims to inspect the difference in quantity, quality and distribution of friends according to where a person lives. Cultural factors, as well as geography and political decisions, may influence the result. We will analyse the problem in different countries.
